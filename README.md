@@ -1,5 +1,11 @@
 
 # Ball and Static Object Game
+<img width="362" alt="Screenshot 2024-12-04 at 6 53 40 PM" src="https://github.com/user-attachments/assets/6acf4a29-a7d9-46e6-9724-f8c3903249ef">
+
+<img width="380" alt="Screenshot 2024-12-04 at 7 01 01 PM" src="https://github.com/user-attachments/assets/183943c2-1364-44d2-8a94-c0b9b95e8a8f">
+
+<img width="380" alt="Screenshot 2024-12-04 at 7 01 01 PM" src="https://github.com/user-attachments/assets/79c2ae0f-86e7-4c26-a14c-8b7e521fe36a">
+
 
 A simple OpenGL-based game where a ball moves around the screen, squashes on collisions, and interacts with a static rectangle. This project demonstrates rendering, movement, collision detection, and transformations in OpenGL.
 
